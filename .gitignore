@@ -1,6 +1,4 @@
 Vagrantfile
 .vagrant/*
 meetup/.idea/*
-meetup/config/database.yml
 meetup/log/development.log
-meetup/config/database.yml
